@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Simple Stock Manager</string>
+
+    <!-- activities titles -->
+    <string name="title_activity_main">Simple Stock Manager</string>
+    <string name="title_activity_catalogue">Catalogue</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- navigation menu -->
+    <string name="menu_open">Menu</string>
+
+    <!-- navigation menu items -->
+    <string name="menu_mouvement">Mouvement</string>
+    <string name="menu_catalogue">Catalogue</string>
+    <string name="menu_historique">Historique des mouvements</string>
+    <string name="menu_emplacement">Emplacements</string>
+    <string name="title_activity_mouvement">Mouvement</string>
+
+    <!-- mouvement -->
+    <string name="action_mouvement_cancel">Annuler</string>
+
+    <!-- catalogue -->
+    <!-- historique des mouvements -->
+
+</resources>
